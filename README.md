@@ -110,7 +110,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nabeel-Zawia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -122,32 +122,7 @@
 
 ###
 
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-Github
-Donate
-Privacy Policy
-Level Up Your README
 
-Anyone can use templates — but when you know what you’re doing, it shows.
-
-👉 Explore resources that will upgrade your skills — and your README. Start now.
-Boost Your English
-
-Real devs debug in English.
-
-💰 Get 70% OFF your first trial lesson and start to boost your english with top tutors worldwide on Preply 🚀
-👉 Get 70% OFF 👈
-Clean Code
-
-A Handbook of Agile Software Craftsmanship by Uncle Bob.
-Get the book
-Clean Architecture
-
-Software Architecture Solutions from Uncle Bob.
-Get the book
-Explore More Books
 
 Browse the full list of curated titles to boost your coding skills.
 More books
